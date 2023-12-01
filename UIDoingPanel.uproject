@@ -2,5 +2,21 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "RoadmapNavigation",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a71511c718f3481ea0a9e2c8d745df43",
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Mac",
+				"XboxOne",
+				"PS4",
+				"Android",
+				"Switch"
+			]
+		}
+	]
 }
